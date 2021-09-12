@@ -89,7 +89,7 @@ bot.on('message', async (msg) => {
 })
 
 bot.on('message', async (msg) => {
-   const text = msg.text
+   const text = msg.text.toLowerCase()
    const chatId = msg.chat.id
 
    const messageHack = `🔴 _Взлом пентагона в процессе..._`
