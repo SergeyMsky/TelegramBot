@@ -1,6 +1,6 @@
 module.exports = {
    progress(bot, condition, message, msgEdit, text, chatId, msgAnswer) {
-      if (text.match(condition)) {
+      if (text.toLowerCase().match(condition)) {
          bot.sendMessage(chatId, message, { parse_mode: 'Markdown' }).then((msgData) => {
             let count = 0
             const timerId = setInterval(() => {
