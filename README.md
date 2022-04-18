@@ -1,4 +1,4 @@
-# ![Telegram](https://github.com/SergeyMsky/Picture/blob/main/telegram.svg) Bot - [**_@Sesame_**](https://t.me/iamsesamebot)
+# Telegram Bot - [**_@Sesame_**](https://t.me/iamsesamebot)
 
 [![node](https://img.shields.io/npm/v/node?color=%23339933&label=node.js&logo=node.js&style=flat-square)](https://nodejs.org/en/)
 [![botApi](https://img.shields.io/npm/v/node-telegram-bot-api?color=%2326A5E4&label=node-telegram-bot-api&logo=telegram&style=flat-square)](https://www.npmjs.com/package/node-telegram-bot-api)
@@ -28,4 +28,4 @@ _Copy of this app is deployed:_
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ---
-![example](https://github.com/SergeyMsky/Picture/blob/main/telegram-bot.gif)
+![example](https://github.com/SergeyMsky/TelegramBot/blob/main/example-bot.gif)
